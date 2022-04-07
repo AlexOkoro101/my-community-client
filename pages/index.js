@@ -153,7 +153,7 @@ export default function Home() {
 
         ) : (
           <>
-            <p>You're connected...</p>
+            <p>You are connected...</p>
             <Link href="/interact">
               <button className="py-3 text-lg flex gap-2 items-center px-8 bg-green-500 text-white my-5 rounded-md">
                 Gist Us 
